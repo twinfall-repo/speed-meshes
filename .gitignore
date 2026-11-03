@@ -1,0 +1,2 @@
+# the unpacked meshes, written next to their .zst by run_case.sh of speed-simu
+*.mesh
